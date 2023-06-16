@@ -32,7 +32,7 @@ Aspiring Data Scientist<br>Student at Imarticus Learning<br>Currently Learning D
 
 
 ### 💡 Inspirational Quote
-> "The best way to predict the future is to create it." - Peter Drucker
+> 🌟 **"The best way to predict the future is to create it."** - Peter Drucker 🌟
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PranavS122&icon=0&color=0)](https://visitcount.itsvg.in)
