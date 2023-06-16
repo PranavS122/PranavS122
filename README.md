@@ -1,3 +1,5 @@
+![Image](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
+
 # 💫 About Me
 Aspiring Data Scientist<br>Student at Imarticus Learning<br>Currently Learning Data Science and Machine Learning<br>Mumbai, India
 
@@ -24,9 +26,10 @@ Aspiring Data Scientist<br>Student at Imarticus Learning<br>Currently Learning D
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PranavS122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PranavS122&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavS122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PranavS122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PranavS122&theme=dark&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&sideLabels=58A6FF&dates=C9D1D9)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavS122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&langs_count=6)
+
 
 ### 💡 Inspirational Quote
 > "The best way to predict the future is to create it." - Peter Drucker
